@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="260" viewBox="0 0 1200 260" role="img" aria-labelledby="title description">
+  <title id="title">JavaScript learning path</title>
+  <desc id="description">A colorful banner showing four JavaScript lesson chapters.</desc>
+  <defs>
+    <linearGradient id="background" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#101827"/>
+      <stop offset="1" stop-color="#243b63"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="260" rx="24" fill="url(#background)"/>
+  <circle cx="1050" cy="28" r="150" fill="#f7df1e" opacity=".08"/>
+  <circle cx="1130" cy="230" r="110" fill="#5ce1e6" opacity=".1"/>
+  <text x="64" y="94" fill="#f7df1e" font-family="Segoe UI, Arial, sans-serif" font-size="22" font-weight="700" letter-spacing="3">PLAYWRIGHT 4X BATCH</text>
+  <text x="64" y="151" fill="#ffffff" font-family="Segoe UI, Arial, sans-serif" font-size="42" font-weight="700">Learn JavaScript, one chapter at a time</text>
+  <text x="64" y="192" fill="#c9d6ea" font-family="Segoe UI, Arial, sans-serif" font-size="20">Four chapters · beginner examples · runnable with Node.js</text>
+  <g font-family="Segoe UI, Arial, sans-serif" font-size="16" font-weight="700" text-anchor="middle">
+    <g transform="translate(828 216)"><circle r="18" fill="#f7df1e"/><text y="6" fill="#101827">1</text></g>
+    <g transform="translate(902 216)"><circle r="18" fill="#f7df1e"/><text y="6" fill="#101827">2</text></g>
+    <g transform="translate(976 216)"><circle r="18" fill="#f7df1e"/><text y="6" fill="#101827">3</text></g>
+    <g transform="translate(1050 216)"><circle r="18" fill="#f7df1e"/><text y="6" fill="#101827">4</text></g>
+  </g>
+  <rect x="1090" y="54" width="68" height="68" rx="10" fill="#f7df1e"/>
+  <text x="1124" y="101" fill="#101827" font-family="Segoe UI, Arial, sans-serif" font-size="32" font-weight="700" text-anchor="middle">JS</text>
+</svg>
